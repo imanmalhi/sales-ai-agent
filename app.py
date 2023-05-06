@@ -1,8 +1,6 @@
 import os
 from os.path import join, dirname
 from dotenv import load_dotenv
-
-
 import streamlit as st
 from langchain.chains import LLMChain, SequentialChain
 from langchain.llms import OpenAI
