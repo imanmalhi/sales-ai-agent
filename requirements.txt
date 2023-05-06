@@ -3,4 +3,3 @@ python-dotenv
 streamlit
 OpenAI
 Wikipedia
-WikipediaAPIWrapper
